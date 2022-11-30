@@ -40,6 +40,5 @@ yarn test
 
 ### Endpoints
 
-GET /balances:
-example query
+GET /balances example query:
 http://localhost:3000/balances?addresses=0x39a582bE8039a526Bdf4730e4D1E3E0fE1Bc811b,0xBcFE52fEF72A70AD09245e40AEAcCE4B1e851320
